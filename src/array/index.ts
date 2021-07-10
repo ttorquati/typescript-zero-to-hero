@@ -1,0 +1,1 @@
+export const games: Array<string> = ['World of Warcraft', 'Final Fantasy XIV', 'Guild Wars 2'];
